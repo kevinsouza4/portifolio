@@ -4,6 +4,8 @@
   border: 0;
   font-size: 100%;
   vertical-align: baseline;
+  box-sizing: border-box;
+  font-family: 'Poppins' , sans-serif;
 }
 
 body {
@@ -62,20 +64,25 @@ body {
 
 
 h1{
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     font-family: 'Poppins', sans-serif;
-    font-size: 3.5rem;
+    font-size: 3em;
     font-weight: 500;
     color: rgb(53, 53, 53);;
-    line-height: 4.2rem;
+    line-height: 3.2rem;
 
 }
 
 .Nome {
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
     font-family: 'Poppins', sans-serif;
-    font-size: 3.5rem;
+    font-size: 3em;
     font-weight: 500;
     color: #F9F9F9;
-    line-height: 4.2rem;
+    line-height: 3.2rem;
     display: block;
     color: aqua;
 }
@@ -85,6 +92,8 @@ h1{
     font-size: 1.2rem;
     font-weight: 500;
     color: #828282;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
  
 .foto {
