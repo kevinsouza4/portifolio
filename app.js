@@ -1,7 +1,7 @@
 const initTypingAnimation = () => {
-    const title = document.querySelector('h1')
-    const span = document.querySelector('span')
-    const paragraph = document.querySelector('p')
+    const title = document.querySelector('#home .banner h1')
+    const span = document.querySelector('#home .banner span')
+    const paragraph = document.querySelector('#home .banner p')
   
     const typingAnimation = (element) => {
   
