@@ -46,7 +46,6 @@ body {
 .btn:hover {
     font-weight: 800;
     color: aqua;
-    text-decoration:overline;
     cursor: pointer;
     box-shadow: 1px 1px 6px aqua;
 }
