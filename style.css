@@ -46,7 +46,6 @@ body {
 .btn:hover {
     font-weight: 800;
     color: aqua;
-    text-decoration:overline;
     cursor: pointer;
     box-shadow: 1px 1px 6px aqua;
 }
@@ -83,7 +82,7 @@ h1{
     font-family: 'Poppins', sans-serif;
     font-size: 3em;
     font-weight: 500;
-    color: rgb(254, 252, 252);;
+    color: rgb(254, 252, 252);
     line-height: 3.2rem;
 
 }
